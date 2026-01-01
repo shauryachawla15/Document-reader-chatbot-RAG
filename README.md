@@ -39,6 +39,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows users to ask question
 
 ## 📂 Project Structure
 
+---text
 doc-reader-chatbot/
 │
 ├── app.py
@@ -96,6 +97,15 @@ This implementation uses in-memory embeddings
 Suitable for small to medium-sized PDFs
 Can be extended with FAISS / Pinecone for large-scale use
 Designed for learning and demonstration purposes
+
+## Output(Screenshots)
+--
+<img width="1748" height="891" alt="Screenshot 2026-01-01 151048" src="https://github.com/user-attachments/assets/cf38e3ee-ece2-4d3b-8264-b2fac9d87066" />
+<img width="1357" height="722" alt="Screenshot 2026-01-01 151213" src="https://github.com/user-attachments/assets/0e55b0e7-fa64-4928-b489-bd2460a38130" />
+<img width="1687" height="798" alt="Screenshot 2026-01-01 151428" src="https://github.com/user-attachments/assets/cde46a02-0ff7-4540-9fd8-70f1d261ae24" />
+<img width="1615" height="731" alt="Screenshot 2026-01-01 151754" src="https://github.com/user-attachments/assets/87bb61b7-de18-4fd8-8f28-95394f38edf0" />
+
+
 
 ##📬 Author
 --
