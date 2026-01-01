@@ -57,7 +57,7 @@ doc-reader-chatbot/
 --
 1️⃣ Clone the repository
 --
-  git clone https://github.com/your-username/doc-reader-chatbot.git
+  git clone https://github.com/shauryachawla15/doc-reader-chatbot.git
 cd doc-reader-chatbot
 
 2️⃣ Create a virtual environment (optional but recommended)
